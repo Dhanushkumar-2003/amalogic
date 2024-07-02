@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001200048645",
+    "project_id": "amalogic-39815",
+    "storage_bucket": "amalogic-39815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001200048645:android:c8119c99cb8ea3acd61a6c",
+        "android_client_info": {
+          "package_name": "com.example.amologic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAks6SvOrGZ1t9rKw84LzXHFbEH9BUmJdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
